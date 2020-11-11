@@ -2,7 +2,7 @@
 
 I’m Ronny. I’m a software engineer based in Melbourne, 🇦🇺 Australia.
 
-I currently work at [iflix] (part of Tencent Video) as a principal engineer in the core team. 
+I currently work at [iflix] (part of Tencent/WeTV) as a principal engineer in the core team. 
 
 I have a [website] where I publish more things.
 

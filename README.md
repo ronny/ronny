@@ -2,7 +2,7 @@
 
 I’m Ronny. I’m a software engineer based in Melbourne, 🇦🇺 Australia.
 
-I currently work at [GetSetUp] as a lead engineer.
+I currently work at [GetSetUp] as a platform engineering manager.
 
 I have a [website] where I publish more things.
 

@@ -2,11 +2,11 @@
 
 I’m Ronny. I’m a software engineer based in Melbourne, 🇦🇺 Australia.
 
-I currently work at [GetSetUp] as a platform engineering manager.
+I currently work at [UKG].
 
 I have a [website] where I publish more things.
 
-[GetSetUp]: https://www.getsetup.io
+[UKG]: https://www.ukg.com
 [website]: https://ronny.haryan.to
 
 <!--
